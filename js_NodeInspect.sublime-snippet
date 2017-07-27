@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[console.log($2require('util').inspect($1))$0]]></content>
+    <tabTrigger>nodeinspect</tabTrigger>
+</snippet>

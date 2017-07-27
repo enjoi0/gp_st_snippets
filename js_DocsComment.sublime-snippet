@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/*
+* $1
+* 
+* => $2undefined
+*/$0
+]]></content>
+	<tabTrigger>jsdoc</tabTrigger>
+</snippet>
